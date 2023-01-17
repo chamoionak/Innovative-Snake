@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\LX\Desktop\新建文件夹\贪吃蛇游戏项目\贪吃蛇游戏项目\源.cpp(268,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\LX\Desktop\新建文件夹\贪吃蛇游戏项目\贪吃蛇游戏项目\源.cpp(270,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\LX\Desktop\新建文件夹\贪吃蛇游戏项目\贪吃蛇游戏项目\源.cpp(306,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  贪吃蛇游戏项目.vcxproj -> C:\Users\LX\Desktop\新建文件夹\贪吃蛇游戏项目\x64\Debug\贪吃蛇游戏项目.exe
